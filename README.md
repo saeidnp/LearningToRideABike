@@ -18,3 +18,7 @@ Specifications of the components of the algorithm are as below:
 - Rewards: We defined the reward for state s = {θ,θ ̇} to be R(s) = c2 −θ2 −(0.1)θ ̇2. c is a constant set to 0.5 in our code.
 - Gamma: The constant γ is set to be 0.9 in our code.
 
+## Authors
+
+* [**Saeid Naderiparizi**](https://github.com/saeidnp)
+* [**Setareh Cohan**](https://github.com/setarehc)
